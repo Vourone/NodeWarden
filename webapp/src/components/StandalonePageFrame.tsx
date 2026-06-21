@@ -39,6 +39,7 @@ export default function StandalonePageFrame(props: StandalonePageFrameProps) {
           className="standalone-version"
         >
           v{APP_VERSION}
+        </a>
       </div>
     </div>
   );
